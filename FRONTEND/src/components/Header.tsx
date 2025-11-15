@@ -68,7 +68,7 @@ export default function Header({ onNavigate, currentPage, onSearch, onCategorySe
               <rect width="32" height="32" rx="8" fill="currentColor"/>
               <text x="16" y="23" fontSize="20" fontWeight="bold" fill="white" textAnchor="middle">1</text>
             </svg>
-            1Store
+            Store
           </button>
 
           <nav className="hidden md:flex items-center space-x-6">

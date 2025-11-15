@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Appliances",
+    "url": "https://www.jumia.com.ng/mlp-appliances/",
+    "subcategories": [
+      {
+        "name": "Small Appliances",
+        "url": "/kitchen-dinning-small-appliances/",
+        "items": [
+          { "name": "Blenders", "url": "/blenders/" },
+          { "name": "Deep Fryers", "url": "/deep-fryers/" },
+          { "name": "Juicers", "url": "/juicers/" },
+          { "name": "Air Fryers", "url": "/air-fryers/" },
+          { "name": "Rice Cookers", "url": "/rice-cooker/" },
+          { "name": "Toasters & Ovens", "url": "/ovens-toasters/" },
+          { "name": "Microwaves", "url": "/small-appliances-microwave/" },
+          { "name": "Bundles", "url": "/cooking-appliances-kitchen-bundle/" },
+          { "name": "Vacuum Cleaners", "url": "/vacuum-cleaners/" },
+          { "name": "Kettles", "url": "/kettles/" },
+          { "name": "Yam Pounders", "url": "/yam-pounder/" },
+          { "name": "Irons", "url": "/ironing-laundry/" },
+          { "name": "Electric Cookware", "url": "/electric-cookware/" },
+          { "name": "Electric Drink Mixers", "url": "/electric-drink-mixers/" },
+          { "name": "Food Processors", "url": "/food-processors/" },
+          { "name": "Coffee Makers", "url": "/coffee-makers/" },
+          { "name": "Electric Pressure Cookers", "url": "/electric-pressure-cookers/" }
+        ]
+      },
+      {
+        "name": "Large Appliances",
+        "url": "/home-improvement-appliances/",
+        "items": [
+          { "name": "Washing Machines", "url": "/appliances-washers-dryers/" },
+          { "name": "Fridges", "url": "/appliances-fridges-freezers/" },
+          { "name": "Freezers", "url": "/freezers/" },
+          { "name": "Air Conditioners", "url": "/air-conditioners-d/" },
+          { "name": "Heaters", "url": "/space-heaters-accessories/" },
+          { "name": "Fans", "url": "/household-fans/" },
+          { "name": "Air Purifiers", "url": "/air-purifier/" },
+          { "name": "Water Dispensers", "url": "/water-dispenser/" },
+          { "name": "Generators & Inverters", "url": "/patio-lawn-garden/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Phones & Tablets",
+    "url": "https://www.jumia.com.ng/phones-tablets/",
+    "subcategories": [
+      {
+        "name": "Mobile Phones",
+        "url": "/mobile-phones/",
+        "items": [
+          { "name": "Smartphones", "url": "/smartphones/" },
+          { "name": "Android Phones", "url": "/android-phones/" },
+          { "name": "iPhones", "url": "/ios-phones/" },
+          { "name": "Basic Phones", "url": "/cell-phones/" },
+          { "name": "Refurbished Phones", "url": "/mlp-refurbished-phones/" },
+          { "name": "Rugged Phones", "url": "/mlp-rugged-phone/" },
+          { "name": "Dual Sim Phones", "url": "/mlp-dual-sim/" }
+        ]
+      },
+      {
+        "name": "Tablets",
+        "url": "/tablets/",
+        "items": [
+          { "name": "iPads", "url": "/ipads/" },
+          { "name": "Android Tablets", "url": "/other-tablets/" },
+          { "name": "Educational Tablets", "url": "/educational-tablets/" },
+          { "name": "Tablet Accessories", "url": "/tablet-accessories/" }
+        ]
+      },
+      {
+        "name": "Mobile Accessories",
+        "url": "/mobile-accessories/",
+        "items": [
+          { "name": "Chargers", "url": "/mobile-phone-chargers-adaptors/" },
+          { "name": "Power Banks", "url": "/mobile-phone-accessories-power-banks/" },
+          { "name": "Earphones & Headsets", "url": "/mobile-phone-headsets/" },
+          { "name": "Screen Protectors", "url": "/mobile-phone-screen-protectors/" },
+          { "name": "Phone Cases", "url": "/mobile-phone-cases-covers/" },
+          { "name": "Cables", "url": "/mobile-phone-accessories-cables/" },
+          { "name": "Smart Watches", "url": "/smart-watches/" },
+          { "name": "MicroSD Cards", "url": "/micro-sd-cards/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Health & Beauty",
+    "url": "https://www.jumia.com.ng/health-beauty/",
+    "subcategories": [
+      {
+        "name": "Make Up",
+        "url": "/womens-make-up/",
+        "items": [
+          { "name": "Foundation", "url": "/face-foundation-makeup/" },
+          { "name": "Lipstick", "url": "/lipstick-makeup/" },
+          { "name": "Eyeliner & Kajal", "url": "/eyeliner-makeup/" },
+          { "name": "Mascara", "url": "/eyes-mascara/" },
+          { "name": "Powder", "url": "/face-powder-makeup/" }
+        ]
+      },
+      {
+        "name": "Fragrances",
+        "url": "/fragrances-allgenders/",
+        "items": [
+          { "name": "Women's Fragrances", "url": "/womens-fragrances/" },
+          { "name": "Men's Fragrances", "url": "/mens-fragrances/" }
+        ]
+      },
+      {
+        "name": "Hair Care",
+        "url": "/hair-care-d/",
+        "items": [
+          { "name": "Shampoo & Conditioner", "url": "/shampoo-conditioner-sets/" },
+          { "name": "Wigs & Accessories", "url": "/extensions-wigs-accessories/" },
+          { "name": "Hair Cutting Tools", "url": "/hair-cutting-tools/" }
+        ]
+      },
+      {
+        "name": "Personal Care",
+        "url": "/personal-care-d/",
+        "items": [
+          { "name": "Skin Care", "url": "/skin-care-prducts/" },
+          { "name": "Oral Care", "url": "/personal-oral-care/" },
+          { "name": "Deodorants", "url": "/styling-products-deodorant-antiperspirants/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home & Office",
+    "url": "https://www.jumia.com.ng/home-office/",
+    "subcategories": [
+      {
+        "name": "Home & Kitchen",
+        "url": "/home-kitchen/",
+        "items": [
+          { "name": "Bedding", "url": "/bedding/" },
+          { "name": "Bath", "url": "/bath/" },
+          { "name": "Home Decor", "url": "/home-decor/" },
+          { "name": "Cookware", "url": "/kitchen-dining-cookware/" },
+          { "name": "Home Furniture", "url": "/home-kitchen-furniture/" }
+        ]
+      },
+      {
+        "name": "Office Products",
+        "url": "/office-products/",
+        "items": [
+          { "name": "Office & School Supplies", "url": "/office-school-supplies/" },
+          { "name": "Office Furniture", "url": "/office-furniture-lighting/" },
+          { "name": "Stationery", "url": "/home-office-stationery/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronics",
+    "url": "https://www.jumia.com.ng/electronics/",
+    "subcategories": [
+      {
+        "name": "Television & Video",
+        "url": "/electronic-television-video/",
+        "items": [
+          { "name": "Televisions", "url": "/televisions/" },
+          { "name": "Smart TVs", "url": "/smart-tvs/" },
+          { "name": "LED & LCD TVs", "url": "/led-lcd-tvs/" },
+          { "name": "QLED & OLED TVs", "url": "/oled-tvs/" },
+          { "name": "TV Accessories", "url": "/tv-accessories-parts/" }
+        ]
+      },
+      {
+        "name": "Cameras & Photos",
+        "url": "/cameras/",
+        "items": [
+          { "name": "Digital Cameras", "url": "/digital-cameras/" },
+          { "name": "CCTV Cameras", "url": "/mlp-cctv-cameras/" },
+          { "name": "Projectors", "url": "/photo-projectors/" },
+          { "name": "Video Surveillance", "url": "/video-surveillance/" }
+        ]
+      },
+      {
+        "name": "Home Audio",
+        "url": "/home-audio-electronics/",
+        "items": [
+          { "name": "Home Theatre Systems", "url": "/home-theatre/" },
+          { "name": "Sound Bars", "url": "/home-theatre-systems-sound-bars/" },
+          { "name": "Bluetooth Speakers", "url": "/bluetooth-speakers/" },
+          { "name": "Subwoofers", "url": "/home-theater-systems-subwoofers/" }
+        ]
+      },
+      {
+        "name": "Generators & Power",
+        "url": "/generators-portable-power/",
+        "items": [
+          { "name": "Generators", "url": "/generators/" },
+          { "name": "Power Inverters", "url": "/inverters/" },
+          { "name": "Solar & Wind Power", "url": "/solar-wind-power/" },
+          { "name": "Stabilizers", "url": "/stabilizers-6372/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fashion",
+    "url": "https://www.jumia.com.ng/category-fashion-by-jumia/",
+    "subcategories": [
+      {
+        "name": "Women's Fashion",
+        "url": "/womens-fashion/",
+        "items": [
+          { "name": "Clothing", "url": "/womens-clothing/" },
+          { "name": "Shoes", "url": "/womens-shoes/" },
+          { "name": "Accessories", "url": "/womens-fashion-accessories/" },
+          { "name": "Jewelry", "url": "/womens-jewelry/" },
+          { "name": "Handbags & Wallets", "url": "/womens-bags/" },
+          { "name": "Dresses", "url": "/womens-dresses/" }
+        ]
+      },
+      {
+        "name": "Men's Fashion",
+        "url": "/mens-fashion/",
+        "items": [
+          { "name": "Clothing", "url": "/men-clothing/" },
+          { "name": "Shoes", "url": "/mens-shoes/" },
+          { "name": "Accessories", "url": "/mens-fashion-accessories/" },
+          { "name": "T-Shirts", "url": "/mens-shirts/" },
+          { "name": "Sneakers", "url": "/men-sneakers/" },
+          { "name": "Jewelry", "url": "/mens-jewelry/" }
+        ]
+      },
+      {
+        "name": "Watches",
+        "url": "/watches-sunglasses/",
+        "items": [
+          { "name": "Men's Watches", "url": "/mens-watches/" },
+          { "name": "Women's Watches", "url": "/womens-watches/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Supermarket",
+    "url": "https://www.jumia.com.ng/groceries/",
+    "subcategories": [
+      {
+        "name": "Food Cupboard",
+        "url": "/food-cupboard-supplies/",
+        "items": [
+          { "name": "Grains & Rice", "url": "/dried-beans-grains-rice/" },
+          { "name": "Pasta & Noodles", "url": "/noodles-3404/" },
+          { "name": "Cooking Oil", "url": "/cooking-oil/" },
+          { "name": "Herbs & Spices", "url": "/herbs-spices-seasonings/" }
+        ]
+      },
+      {
+        "name": "Beverages",
+        "url": "/beverages/",
+        "items": [
+          { "name": "Soft Drinks", "url": "/soft-drinks/" },
+          { "name": "Water", "url": "/water-3080/" },
+          { "name": "Juices", "url": "/juice-drinks/" },
+          { "name": "Energy Drinks", "url": "/energy-drinks/" },
+          { "name": "Coffee", "url": "/coffee-espresso/" }
+        ]
+      },
+      {
+        "name": "Household Cleaning",
+        "url": "/household-cleaning/",
+        "items": [
+          { "name": "Laundry", "url": "/laundry-supplies/" },
+          { "name": "Dishwashing", "url": "/dishwashing-products/" },
+          { "name": "Air Fresheners", "url": "/air-fresheners-d/" },
+          { "name": "Cleaning Tools", "url": "/household-cleaning-tools/" }
+        ]
+      },
+      {
+        "name": "Baby Products",
+        "url": "/baby-products/",
+        "items": [
+          { "name": "Disposable Diapers", "url": "/baby-disposable-diapers/" },
+          { "name": "Baby Wipes", "url": "/baby-wipes-refills/" },
+          { "name": "Bottle Feeding", "url": "/baby-bottle-feeding/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Computing",
+    "url": "https://www.jumia.com.ng/computing/",
+    "subcategories": [
+      {
+        "name": "Computers",
+        "url": "/computer-accessories/",
+        "items": [
+          { "name": "Laptops", "url": "/laptops/" },
+          { "name": "Desktops", "url": "/desktop-computers/" },
+          { "name": "Macbooks", "url": "/macbooks/" },
+          { "name": "Gaming Laptops", "url": "/gaming-laptops/" }
+        ]
+      },
+      {
+        "name": "Computer Accessories",
+        "url": "/computing-accessories/",
+        "items": [
+          { "name": "Keyboards & Mice", "url": "/keyboards-mice-accessories/" },
+          { "name": "External Hard Drives", "url": "/external-hd/" },
+          { "name": "USB Flash Drives", "url": "/flash-drives/" },
+          { "name": "Memory Cards", "url": "/computer-memory-cards/" }
+        ]
+      },
+      {
+        "name": "Printers",
+        "url": "/printers/",
+        "items": [
+          { "name": "Inkjet Printers", "url": "/inkjet-printers/" },
+          { "name": "Laser Printers", "url": "/laser-printers/" },
+          { "name": "Printer Ink & Toner", "url": "/printer-ink-toner/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Baby Products",
+    "url": "https://www.jumia.com.ng/baby-products/",
+    "subcategories": [
+      {
+        "name": "Diapering",
+        "url": "/baby-diapering/",
+        "items": [
+          { "name": "Disposable Diapers", "url": "/baby-disposable-diapers/" },
+          { "name": "Diaper Bags", "url": "/baby-diaper-bags/" },
+          { "name": "Wipes & Holders", "url": "/baby-wipe-holders-warmers/" }
+        ]
+      },
+      {
+        "name": "Feeding",
+        "url": "/baby-feeding-products/",
+        "items": [
+          { "name": "Bottle-Feeding", "url": "/baby-bottle-feeding/" },
+          { "name": "Breastfeeding", "url": "/baby-breastfeeding/" },
+          { "name": "Bibs & Burp Cloths", "url": "/baby-bibs-burp-cloths/" }
+        ]
+      },
+      {
+        "name": "Baby & Toddler Toys",
+        "url": "/baby-toddler-toys/",
+        "items": [
+          { "name": "Activity Play Centers", "url": "/baby-play-mats-activity-gyms/" },
+          { "name": "Music & Sound", "url": "/baby-music-sound-toys/" },
+          { "name": "Bath Toys", "url": "/baby-bath-toys/" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gaming",
+    "url": "https://www.jumia.com.ng/video-games/",
+    "subcategories": [
+      {
+        "name": "PlayStation",
+        "url": "/playstation-games/",
+        "items": [
+          { "name": "Playstation 5", "url": "/playstation-5/" },
+          { "name": "Playstation 4", "url": "/playstation-4/" },
+          { "name": "Playstation 3", "url": "/playstation-3/" }
+        ]
+      },
+      {
+        "name": "XBOX",
+        "url": "/xbox-games/",
+        "items": [
+          { "name": "XBOX One", "url": "/xbox-one/" },
+          { "name": "XBOX 360", "url": "/xbox-360/" }
+        ]
+      },
+      {
+        "name": "Nintendo",
+        "url": "/nintendo-gaming/",
+        "items": [
+          { "name": "Nintendo Switch", "url": "/nintendo-switch/" },
+          { "name": "Nintendo 3DS", "url": "/nintendo-3ds/" }
+        ]
+      }
+    ]
+  }
+]

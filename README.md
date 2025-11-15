@@ -22,6 +22,11 @@ This is a **complete dropshipping e-commerce platform** that allows you to:
 - ✅ Let customers browse and order products
 - ✅ Fulfill orders through Jumia
 - ✅ Earn profit on every sale
+<img width="1917" height="1004" alt="image" src="https://github.com/user-attachments/assets/6682da4b-e804-4ea7-aacb-95f7da0f8d88" />
+
+<img width="1905" height="998" alt="image" src="https://github.com/user-attachments/assets/08c2c858-22af-4164-81c5-943962e4b3a5" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/e330c2f5-c922-4170-ba1e-6da45a2535d0" />
 
 **No database required!** All products are fetched directly from Jumia in real-time, ensuring prices and availability are always up-to-date.
 
